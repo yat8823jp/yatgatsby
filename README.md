@@ -24,7 +24,7 @@
 - ncu
 
 ## bug
-###gatsby-plugin-sass-bulk-import
+### gatsby-plugin-sass-bulk-import
 Do not reflect
 
 ## version
