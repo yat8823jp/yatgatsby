@@ -2,14 +2,31 @@
 // ==========================================================================
 // Foundation
 // ==========================================================================
-@import "foundation/sample";
+@import "foundation/base";
+@import "foundation/mixin";
+@import "foundation/variable";
+
 
 // ==========================================================================
 // Layout
 // ==========================================================================
-// @import "layout/*";
+@import "layout/header";
+@import "layout/footer";
 
 // ==========================================================================
 // Object
 // ==========================================================================
-// @import "object/*";
+@import "object/component/grid";
+@import "object/component/img-position";
+@import "object/component/table";
+@import "object/component/title";
+@import "object/project/articles";
+@import "object/project/gnavi";
+@import "object/project/hamburger";
+@import "object/project/mainvisual";
+@import "object/utility/align";
+@import "object/utility/bg";
+@import "object/utility/color";
+@import "object/utility/display";
+@import "object/utility/margin";
+@import "object/utility/typography";
