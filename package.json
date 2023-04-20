@@ -19,7 +19,7 @@
     "react-helmet": "^5.2.1",
     "gatsby-plugin-postcss-sass": "^1.0.22",
     "gatsby-plugin-sass-bulk-import": "^1.1.0",
-    "gatsby-plugin-sharp": "^2.2.10",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-source-filesystem": "^2.1.9",
     "gatsby-transformer-sharp": "^2.2.6",
     "ress": "^1.2.2"
